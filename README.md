@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 # tenzies-project
+
+Tenzies game project made with ReactJS and CSS.
+
 =======
 # React + Vite
 
